@@ -272,11 +272,11 @@
       <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="201" />
-    <option name="y" value="161" />
-    <option name="width" value="1171" />
-    <option name="height" value="764" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="208" />
+    <option name="y" value="111" />
+    <option name="width" value="842" />
+    <option name="height" value="557" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -371,6 +371,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="PluginDummyText.Genre" value="pirates" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Blade" />
     <property name="editor.config.ad.shown" value="true" />
